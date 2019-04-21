@@ -84,6 +84,8 @@ def run(req, res)
   end
 ```
 
+#### Router methods
+
 * The code below defines method that when called adds the appriopriate route
 
 ```ruby
